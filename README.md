@@ -1,2 +1,2 @@
 # github-streak-vacation
-Github streaks are fun, but everyone needs a vacation sometime.
+Github streaks are fun, but everyone needs to take a vacation sometime.

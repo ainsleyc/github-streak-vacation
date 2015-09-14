@@ -1,0 +1,17 @@
+{
+  "name": "github-streak-vacation",
+  "version": "1.0.0",
+  "description": "Github streaks are fun, but everyone needs to take a vacation sometime.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ainsleyc/github-streak-vacation.git"
+  },
+  "author": "Ainsley Chong <Ainsley.Chong@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/ainsleyc/github-streak-vacation/issues"
+  },
+  "homepage": "https://github.com/ainsleyc/github-streak-vacation#readme",
+  "scripts": {
+    "start": "node run.js"
+  }
+}
